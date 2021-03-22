@@ -19,6 +19,14 @@ second is incorporating a pre-trained model with a technique called transfer lea
 the Inception v3 (the third edition of Google's Inception Convolutional Neural Network) model architecture and weights 
 to train the model.
 
+More specifically, the project comprises:
+* Exploratory data analysis
+* Image augmentation
+* End-to-end learning (CNN from scratch)
+* Transfer learning (Inception v3)
+* Model Metrics
+* Predictions
+
 For more information, please review the [notebook](brain-tumor-classifier.ipynb).
 
 ## CNN Model

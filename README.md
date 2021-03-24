@@ -29,6 +29,8 @@ More specifically, the project comprises:
 
 For more information, please review the [notebook](brain-tumor-classifier.ipynb).
 
+![Tarry Note](images/feedback.png "Tarry Note")
+
 ## CNN Model
 
 ![CNN Model](model.png "CNN Model")

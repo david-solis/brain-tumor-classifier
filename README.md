@@ -29,8 +29,6 @@ More specifically, the project comprises:
 
 For more information, please review the [notebook](brain-tumor-classifier.ipynb).
 
-![Tarry Note](images/feedback.png "Tarry Note")
-
 ## CNN Model
 
 ![CNN Model](model.png "CNN Model")
@@ -48,3 +46,5 @@ The link to access the application is
 [Brain Tumor Classifier Demo](https://share.streamlit.io/david-solis/btc-demo/app.py).
 
 ![Streamlit Web App](images/streamlit-web-app.png "Streamlit Web App")
+
+![Tarry Note](images/feedback.png "Tarry Note")

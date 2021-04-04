@@ -47,4 +47,6 @@ The link to access the application is
 
 ![Streamlit Web App](images/streamlit-web-app.png "Streamlit Web App")
 
+## Course Feedback
+
 ![Tarry Note](images/feedback.png "Tarry Note")
